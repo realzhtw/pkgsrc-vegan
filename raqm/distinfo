@@ -1,0 +1,5 @@
+$NetBSD$
+
+BLAKE2s (libraqm/raqm-0.10.0.tar.xz) = 69096ade80c7fb7dd409d2aa7abe3c119d251400241e3a64e33e1d8d4f509e1a
+SHA512 (libraqm/raqm-0.10.0.tar.xz) = 9829a55b396e403baae6aa9eaa39f3c5f5c5ec1170b460866d19dcb9925896e3c6d73f90ea7966f051b50d655a25b6747114b8277bed0d595855f7e53f9a4512
+Size (libraqm/raqm-0.10.0.tar.xz) = 213784 bytes
