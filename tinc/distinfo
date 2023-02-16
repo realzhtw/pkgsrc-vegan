@@ -1,0 +1,5 @@
+$NetBSD: distinfo,v 1.17 2021/10/26 11:07:03 nia Exp $
+
+BLAKE2s (tinc-1.1pre18.tar.gz) = 512e9ff77e270a505c1c01daf87f68b87c594b314f02df1ebc59c70c2a4c5d00
+SHA512 (tinc-1.1pre18.tar.gz) = d8b03c78fd579df58d4c8a03f5d2241d2c95edb660ce9aa34441f6e75df09e3fff7524215c7c4b3622311e80f5bb452a6ac1205f3fd13424d56135f70b973183
+Size (tinc-1.1pre18.tar.gz) = 732111 bytes
