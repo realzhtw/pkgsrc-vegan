@@ -1,0 +1,5 @@
+$NetBSD$
+
+BLAKE2s (conan-1.57.0.tar.gz) = af52c2efab3c7e84f581388af20daa49b7cf3fc7103029018a00dfb1656e6318
+SHA512 (conan-1.57.0.tar.gz) = 473d1eb2d5b8d776615d606bda8592c1fcadd8128725416cd2f3b91471b7df29f3c9baf48a9ba3a24a0a48904ec64040dd030c0cbe6e8a707a5c4b19647071c9
+Size (conan-1.57.0.tar.gz) = 779039 bytes
