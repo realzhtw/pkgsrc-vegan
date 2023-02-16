@@ -6,7 +6,7 @@ BUILDLINK_TREE+=	raqm
 RAQM_BUILDLINK3_MK:=
 
 BUILDLINK_API_DEPENDS.raqm+=	raqm>=0.7.1
-BUILDLINK_PKGSRCDIR.raqm?=	../../wip/raqm
+BUILDLINK_PKGSRCDIR.raqm?=	../../vegan/raqm
 
 .endif	# RAQM_BUILDLINK3_MK
 
