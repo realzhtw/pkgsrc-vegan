@@ -1,0 +1,5 @@
+$NetBSD$
+
+BLAKE2s (pluginbase-1.0.1.tar.gz) = 8ae351de1aae493bac7687f5cbb0f37262ce5cc1390b5a9e54ab8acea8f3df57
+SHA512 (pluginbase-1.0.1.tar.gz) = 20844fb78daf3e03a7a8013f82a059bf6b0723a184e89061ce5cb674b5a978900623f2eceed56fc9f9a34410e7e6ca8d41a5ac0a21e374b1b3ce32d4e522348e
+Size (pluginbase-1.0.1.tar.gz) = 43588 bytes
