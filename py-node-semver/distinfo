@@ -1,0 +1,5 @@
+$NetBSD$
+
+BLAKE2s (node-semver-0.8.1.tar.gz) = d90f38a759793f1f5d59a30c4895efed2375e1ae0ca00ca493c58c3c70ed1abe
+SHA512 (node-semver-0.8.1.tar.gz) = 5dee80c234f34f21cc603fd631fe220a840abca844bc13290bf1e56154dfbb787c15409092ca7a936278cb8bb93c1408a37f292fd1e3faa3574ea0baaaf9b726
+Size (node-semver-0.8.1.tar.gz) = 19263 bytes
