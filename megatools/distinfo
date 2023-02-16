@@ -1,0 +1,5 @@
+$NetBSD: distinfo,v 1.6 2021/10/26 11:05:59 nia Exp $
+
+BLAKE2s (megatools-1.11.1.20230212.tar.gz) = e98b6eb5425c9e18eb6f81a8537d8299dc5e8ea0ef1bc145b2b7bfa5ce17e383
+SHA512 (megatools-1.11.1.20230212.tar.gz) = 8d96533c6ae117f38e095b16f4c3241a9170397174befaff9caf81b598addbe60c89c05d29b20efead462a8f263f799107653cab1ad429ab2ba2fe0dc4fbbb39
+Size (megatools-1.11.1.20230212.tar.gz) = 105339 bytes
