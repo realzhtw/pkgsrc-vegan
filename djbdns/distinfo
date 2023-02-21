@@ -1,0 +1,11 @@
+$NetBSD: distinfo,v 1.31 2021/11/15 20:36:26 schmonz Exp $
+
+BLAKE2s (1.08.tar.gz) = aee870485a87e25a0bdcefcc0b1ac09632ae2b7abd2d0533c576bcfa9ed8575d
+SHA512 (1.08.tar.gz) = cf72843151fece6668a8c07cfacef8e953eded9e0a7139d20ea64fa47c2b6bcf1ff5114f0a646e030d978feec77499bfc5411f98d30015035fbad648e1db114f
+Size (1.08.tar.gz) = 103696 bytes
+BLAKE2s (djbdns-1.05-man-20031023.tar.gz) = 18402c540774cd75fb70e5effc61add085084cc73ba2274fe9490956fa0745db
+SHA512 (djbdns-1.05-man-20031023.tar.gz) = 98af7bd9033a2205fbbc0f23b7eab45b9756f6ceff5199a62952e19c89c9fe3c03495cb6f8621d388f883c40650309a1509095417df3f54af21a71350c4aa183
+Size (djbdns-1.05-man-20031023.tar.gz) = 17170 bytes
+SHA1 (patch-Makefile) = 9b6f215f5569940dcd6265ca44e79bb9582ca14a
+SHA1 (patch-dnscache-conf.c) = 873897ad6b97baff363874a6a79c8da44383c283
+SHA1 (patch-hier.c) = 874af27489ad4597e213cfe05a7f2f919081db20
