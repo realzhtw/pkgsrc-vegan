@@ -25,7 +25,7 @@ INSTALLATION_DIRS=	bin
 
 do-install:
 	${INSTALL_PROGRAM} ${WRKSRC}/bin/release/premake5 \
-		${DESTDIR}${PREFIX}/bin/premake
+		${DESTDIR}${PREFIX}/bin/
 
 .include "../../devel/libuuid/buildlink3.mk"
 .include "../../mk/dlopen.buildlink3.mk"
