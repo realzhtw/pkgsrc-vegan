@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	conan-1.59.0
+DISTNAME=	conan-2.0.0
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
 CATEGORIES=	pkgtools
 MASTER_SITES=	${MASTER_SITE_PYPI:=c/conan/}
@@ -13,9 +13,7 @@ LICENSE=	mit
 USE_LANGUAGES=	# none
 
 post-install:
-	cd ${DESTDIR}${PREFIX}/bin && for b in conan conan_build_info conan_server; \
-          do ${MV} $$b $$b-${PYVERSSUFFIX}; \
-        done
+	cd ${DESTDIR}${PREFIX}/bin && ${MV} conan conan-${PYVERSSUFFIX}
 
 DEPENDS+=	${PYPKGPREFIX}-JWT>=1.4.0<3.0.0:../../textproc/py-JWT
 DEPENDS+=	${PYPKGPREFIX}-requests>=2.8.1<3.0.0:../../devel/py-requests
