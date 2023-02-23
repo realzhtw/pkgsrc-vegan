@@ -23,6 +23,12 @@ ${PYSITELIB}/conan/tools/_check_build_profile.pyo
 ${PYSITELIB}/conan/tools/_compilers.py
 ${PYSITELIB}/conan/tools/_compilers.pyc
 ${PYSITELIB}/conan/tools/_compilers.pyo
+${PYSITELIB}/conan/tools/android/__init__.py
+${PYSITELIB}/conan/tools/android/__init__.pyc
+${PYSITELIB}/conan/tools/android/__init__.pyo
+${PYSITELIB}/conan/tools/android/utils.py
+${PYSITELIB}/conan/tools/android/utils.pyc
+${PYSITELIB}/conan/tools/android/utils.pyo
 ${PYSITELIB}/conan/tools/apple/__init__.py
 ${PYSITELIB}/conan/tools/apple/__init__.pyc
 ${PYSITELIB}/conan/tools/apple/__init__.pyo
