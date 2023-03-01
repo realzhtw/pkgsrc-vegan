@@ -1,0 +1,5 @@
+$NetBSD: distinfo,v 1.4 2021/11/27 18:29:48 wiz Exp $
+
+BLAKE2s (libusb1-3.0.0.tar.gz) = a365e37b92e477bf0327e02240debbf6ff02e1cfaf0620f9105b7f85141064f5
+SHA512 (libusb1-3.0.0.tar.gz) = 3e1726e80a5c60a9081410a0da8603b89a15da37c0e8702b7ef846e58c86529568d6cb6d762bc6a10a8aa6f24f51fd1043f80433e93b6a7434731882e7888da8
+Size (libusb1-3.0.0.tar.gz) = 82499 bytes
