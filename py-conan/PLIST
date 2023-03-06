@@ -843,9 +843,6 @@ ${PYSITELIB}/conans/util/sha.pyo
 ${PYSITELIB}/conans/util/thread.py
 ${PYSITELIB}/conans/util/thread.pyc
 ${PYSITELIB}/conans/util/thread.pyo
-${PYSITELIB}/conans/util/tracer.py
-${PYSITELIB}/conans/util/tracer.pyc
-${PYSITELIB}/conans/util/tracer.pyo
 ${PYSITELIB}/conans/util/windows.py
 ${PYSITELIB}/conans/util/windows.pyc
 ${PYSITELIB}/conans/util/windows.pyo
