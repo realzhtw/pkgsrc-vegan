@@ -1,0 +1,5 @@
+$NetBSD$
+
+BLAKE2s (svglib-1.5.1.tar.gz) = 8b14dba6d9d483a4b4de00135855875ec169c4bb9218d8de6252e5e4f85e63a2
+SHA512 (svglib-1.5.1.tar.gz) = 5f0f21e1be59b3d6e4e9f58893f35e4cd268c25cf5d422487c7f58723286c114206d0d6f212bf0e1e52d7b192de0ed870e52a5d1423e90ddd962e00f41e5048d
+Size (svglib-1.5.1.tar.gz) = 913900 bytes

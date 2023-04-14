@@ -1,0 +1,20 @@
+@comment $NetBSD$
+bin/svg2pdf
+${PYSITELIB}/${EGG_INFODIR}/PKG-INFO
+${PYSITELIB}/${EGG_INFODIR}/SOURCES.txt
+${PYSITELIB}/${EGG_INFODIR}/dependency_links.txt
+${PYSITELIB}/${EGG_INFODIR}/requires.txt
+${PYSITELIB}/${EGG_INFODIR}/top_level.txt
+${PYSITELIB}/svglib/__init__.py
+${PYSITELIB}/svglib/__init__.pyc
+${PYSITELIB}/svglib/__init__.pyo
+${PYSITELIB}/svglib/fonts.py
+${PYSITELIB}/svglib/fonts.pyc
+${PYSITELIB}/svglib/fonts.pyo
+${PYSITELIB}/svglib/svglib.py
+${PYSITELIB}/svglib/svglib.pyc
+${PYSITELIB}/svglib/svglib.pyo
+${PYSITELIB}/svglib/utils.py
+${PYSITELIB}/svglib/utils.pyc
+${PYSITELIB}/svglib/utils.pyo
+share/man/man1/svg2pdf.1
