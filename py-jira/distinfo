@@ -1,0 +1,5 @@
+$NetBSD$
+
+BLAKE2s (jira-3.5.0.tar.gz) = e51198b22ba402193b337c5bd88ef6ecfe2055d48876faf342af8b1dae1af78a
+SHA512 (jira-3.5.0.tar.gz) = 0811909cb96e00366209e0e4727ec58686448af778256de24754397f604d5f61cd7ddeac05d82a1fa0f9348985dae58b70c4db7546bd5fe476fb9eb96514dd82
+Size (jira-3.5.0.tar.gz) = 95569 bytes

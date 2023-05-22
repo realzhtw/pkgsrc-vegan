@@ -1,0 +1,1 @@
+bin/jirashell @PREFIX@/bin/jirashell-@PYVERSSUFFIX@
