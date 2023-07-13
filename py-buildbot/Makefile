@@ -11,11 +11,10 @@ DEPENDS+=	${PYPKGPREFIX}-autobahn>=0.16.0:../../www/py-autobahn
 DEPENDS+=	${PYPKGPREFIX}-dateutil>=1.5:../../time/py-dateutil
 DEPENDS+=	${PYPKGPREFIX}-jinja2>=2.1:../../textproc/py-jinja2
 DEPENDS+=	${PYPKGPREFIX}-setuptools>=8.0:../../devel/py-setuptools
-DEPENDS+=	${PYPKGPREFIX}-sqlalchemy>=1.2.0<1.4:../../databases/py-sqlalchemy
-DEPENDS+=	${PYPKGPREFIX}-sqlalchemy-migrate>=0.13:../../databases/py-sqlalchemy-migrate
-DEPENDS+=	${PYPKGPREFIX}-twisted>=17.9.0:../../net/py-twisted
+DEPENDS+=	${PYPKGPREFIX}-sqlalchemy>=1.3.0<1.5:../../databases/py-sqlalchemy
+DEPENDS+=	${PYPKGPREFIX}-twisted>=18.7.0:../../net/py-twisted
 DEPENDS+=	${PYPKGPREFIX}-txaio>=2.2.2:../../devel/py-txaio
-DEPENDS+=	${PYPKGPREFIX}-ZopeInterface>=4.1.1:../../devel/py-ZopeInterface
+DEPENDS+=	${PYPKGPREFIX}-zope.interface>=4.1.1:../../devel/py-zope.interface
 DEPENDS+=	${PYPKGPREFIX}-yaml>=5.3.1:../../textproc/py-yaml
 DEPENDS+=	${PYPKGPREFIX}-alembic>=1.6.0:../../databases/py-alembic
 DEPENDS+=	${PYPKGPREFIX}-msgpack>=0.6.0:../../devel/py-msgpack

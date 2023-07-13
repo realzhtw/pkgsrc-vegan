@@ -11,9 +11,6 @@ ${PYSITELIB}/buildbot_worker/VERSION
 ${PYSITELIB}/buildbot_worker/__init__.py
 ${PYSITELIB}/buildbot_worker/__init__.pyc
 ${PYSITELIB}/buildbot_worker/__init__.pyo
-${PYSITELIB}/buildbot_worker/backports/__init__.py
-${PYSITELIB}/buildbot_worker/backports/__init__.pyc
-${PYSITELIB}/buildbot_worker/backports/__init__.pyo
 ${PYSITELIB}/buildbot_worker/base.py
 ${PYSITELIB}/buildbot_worker/base.pyc
 ${PYSITELIB}/buildbot_worker/base.pyo

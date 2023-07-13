@@ -979,6 +979,9 @@ ${PYSITELIB}/buildbot/test/integration/test_custom_buildstep.pyo
 ${PYSITELIB}/buildbot/test/integration/test_customservices.py
 ${PYSITELIB}/buildbot/test/integration/test_customservices.pyc
 ${PYSITELIB}/buildbot/test/integration/test_customservices.pyo
+${PYSITELIB}/buildbot/test/integration/test_download_secret_to_worker.py
+${PYSITELIB}/buildbot/test/integration/test_download_secret_to_worker.pyc
+${PYSITELIB}/buildbot/test/integration/test_download_secret_to_worker.pyo
 ${PYSITELIB}/buildbot/test/integration/test_graphql.py
 ${PYSITELIB}/buildbot/test/integration/test_graphql.pyc
 ${PYSITELIB}/buildbot/test/integration/test_graphql.pyo
