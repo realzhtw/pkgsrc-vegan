@@ -266,6 +266,12 @@ ${PYSITELIB}/conan/tools/scm/__init__.pyo
 ${PYSITELIB}/conan/tools/scm/git.py
 ${PYSITELIB}/conan/tools/scm/git.pyc
 ${PYSITELIB}/conan/tools/scm/git.pyo
+${PYSITELIB}/conan/tools/scons/__init__.py
+${PYSITELIB}/conan/tools/scons/__init__.pyc
+${PYSITELIB}/conan/tools/scons/__init__.pyo
+${PYSITELIB}/conan/tools/scons/sconsdeps.py
+${PYSITELIB}/conan/tools/scons/sconsdeps.pyc
+${PYSITELIB}/conan/tools/scons/sconsdeps.pyo
 ${PYSITELIB}/conan/tools/system/__init__.py
 ${PYSITELIB}/conan/tools/system/__init__.pyc
 ${PYSITELIB}/conan/tools/system/__init__.pyo
