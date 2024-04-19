@@ -240,6 +240,12 @@ ${PYSITELIB}/buildbot/db/migrations/versions/061_2023-06-03_add_builder_descript
 ${PYSITELIB}/buildbot/db/migrations/versions/062_2023-06-03_add_project_description_format.py
 ${PYSITELIB}/buildbot/db/migrations/versions/062_2023-06-03_add_project_description_format.pyc
 ${PYSITELIB}/buildbot/db/migrations/versions/062_2023-06-03_add_project_description_format.pyo
+${PYSITELIB}/buildbot/db/migrations/versions/063_2023-08-15_add_steps_locks_acquired_at.py
+${PYSITELIB}/buildbot/db/migrations/versions/063_2023-08-15_add_steps_locks_acquired_at.pyc
+${PYSITELIB}/buildbot/db/migrations/versions/063_2023-08-15_add_steps_locks_acquired_at.pyo
+${PYSITELIB}/buildbot/db/migrations/versions/064_2023-10-29_add_worker_pause_reason.py
+${PYSITELIB}/buildbot/db/migrations/versions/064_2023-10-29_add_worker_pause_reason.pyc
+${PYSITELIB}/buildbot/db/migrations/versions/064_2023-10-29_add_worker_pause_reason.pyo
 ${PYSITELIB}/buildbot/db/migrations/versions/__init__.py
 ${PYSITELIB}/buildbot/db/migrations/versions/__init__.pyc
 ${PYSITELIB}/buildbot/db/migrations/versions/__init__.pyo
@@ -1366,6 +1372,9 @@ ${PYSITELIB}/buildbot/util/httpclientservice.pyo
 ${PYSITELIB}/buildbot/util/identifiers.py
 ${PYSITELIB}/buildbot/util/identifiers.pyc
 ${PYSITELIB}/buildbot/util/identifiers.pyo
+${PYSITELIB}/buildbot/util/importlib_compat.py
+${PYSITELIB}/buildbot/util/importlib_compat.pyc
+${PYSITELIB}/buildbot/util/importlib_compat.pyo
 ${PYSITELIB}/buildbot/util/kubeclientservice.py
 ${PYSITELIB}/buildbot/util/kubeclientservice.pyc
 ${PYSITELIB}/buildbot/util/kubeclientservice.pyo

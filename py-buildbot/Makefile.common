@@ -1,4 +1,4 @@
-BBVERSION=	3.9.2
+BBVERSION=	3.11.1
 MAINTAINER=	root@zta.lk
 HOMEPAGE=	https://buildbot.net/
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}

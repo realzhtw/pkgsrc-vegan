@@ -1,5 +1,5 @@
 $NetBSD: distinfo,v 1.11 2020/02/19 19:07:18 adam Exp $
 
-BLAKE2s (buildbot-3.9.2.tar.gz) = 180d9c5b79fa888357b4b73b62c23f9ac6fb61e49acff1b82baa6495b58dc584
-SHA512 (buildbot-3.9.2.tar.gz) = 268a9c6ac62ef137b6c23ef10245f960001f36babba6b0266541d9e158a05b468bfb1621d27ff9cd1350f136d5899cd778cfeafd2cfed3285886739f156a0dc9
-Size (buildbot-3.9.2.tar.gz) = 2506531 bytes
+BLAKE2s (buildbot-3.11.1.tar.gz) = e78e34f63dcd02155fd89c8f60fa6fc5e539812b50b1af9a40ea6bb1610e3909
+SHA512 (buildbot-3.11.1.tar.gz) = ea9155c48fb44d6cf967e3b821bcca368f2a50bcc49e2b889e237ff17d0e6a222253a2fa2cd7876ade2edef05d50cead05090c3e73ecda0530e7d6c617376b8b
+Size (buildbot-3.11.1.tar.gz) = 2524103 bytes
