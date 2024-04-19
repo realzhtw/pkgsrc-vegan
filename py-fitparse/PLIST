@@ -1,0 +1,24 @@
+@comment $NetBSD$
+bin/fitdump
+${PYSITELIB}/${EGG_INFODIR}/PKG-INFO
+${PYSITELIB}/${EGG_INFODIR}/SOURCES.txt
+${PYSITELIB}/${EGG_INFODIR}/dependency_links.txt
+${PYSITELIB}/${EGG_INFODIR}/top_level.txt
+${PYSITELIB}/fitparse/__init__.py
+${PYSITELIB}/fitparse/__init__.pyc
+${PYSITELIB}/fitparse/__init__.pyo
+${PYSITELIB}/fitparse/base.py
+${PYSITELIB}/fitparse/base.pyc
+${PYSITELIB}/fitparse/base.pyo
+${PYSITELIB}/fitparse/processors.py
+${PYSITELIB}/fitparse/processors.pyc
+${PYSITELIB}/fitparse/processors.pyo
+${PYSITELIB}/fitparse/profile.py
+${PYSITELIB}/fitparse/profile.pyc
+${PYSITELIB}/fitparse/profile.pyo
+${PYSITELIB}/fitparse/records.py
+${PYSITELIB}/fitparse/records.pyc
+${PYSITELIB}/fitparse/records.pyo
+${PYSITELIB}/fitparse/utils.py
+${PYSITELIB}/fitparse/utils.pyc
+${PYSITELIB}/fitparse/utils.pyo

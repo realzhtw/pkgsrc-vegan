@@ -1,0 +1,5 @@
+$NetBSD$
+
+BLAKE2s (fitparse-1.2.0.tar.gz) = 9be4e4531e6df8a84f5f6b8b973a1bf108968d9e4f873222423332057d685020
+SHA512 (fitparse-1.2.0.tar.gz) = 315783d891adb85a1148796cb5a93dd3cae2d6c0e4fcc90a1bfdab2ca1bb8d896b107fdd1cda358d5b1ded57c1388970eb32da947ab9ce479825cecac40bc97d
+Size (fitparse-1.2.0.tar.gz) = 65716 bytes
