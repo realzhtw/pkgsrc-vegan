@@ -1,0 +1,6 @@
+$NetBSD$
+
+BLAKE2s (roswell-23.10.14.114.tar.gz) = a6ed6064fe98c8c03a70b4feeee691fdc0e6466acd9229a2ce04357040a3338b
+SHA512 (roswell-23.10.14.114.tar.gz) = 9bc4962d5e132c20a896342fff28138692e79a91657aa1d8642f431eaa2f757d72d92a792b079cfb9cf55e196af453f0e420d0f9e927a1c8f0daf93d54506bf4
+Size (roswell-23.10.14.114.tar.gz) = 171258 bytes
+SHA1 (patch-configure) = 7d9b0699160516c1f8d71c6dbacc1f0549054d2c
