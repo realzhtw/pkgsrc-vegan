@@ -1,5 +1,5 @@
 $NetBSD$
 
-BLAKE2s (python-telegram-bot-20.1.tar.gz) = 756bb7e87882226d936d7fb33b35c6097839e0002c312425f964231a1eec4151
-SHA512 (python-telegram-bot-20.1.tar.gz) = c0d996ec3a89f9a1f2b644807c79dc76d66af29129830b985971d26bd58c6ba5c498818030aab32f6fcfda6173108f299b0f24a6914d1ea33525f19ba95b9b3d
-Size (python-telegram-bot-20.1.tar.gz) = 586730 bytes
+BLAKE2s (python-telegram-bot-20.5.tar.gz) = 6eb648aa1b6c4a2774ee289a04650cba3a0b33944f1878f184fecfcffdb66dc8
+SHA512 (python-telegram-bot-20.5.tar.gz) = fa7e611f3e991c93912e1b62212aef23a98ba21b62f8d0bebceaf3e9b7ba26751a049dd00a3ad48935532d6efd339bf82cc3e9283f3081f93d75f0a3defd8589
+Size (python-telegram-bot-20.5.tar.gz) = 362307 bytes
