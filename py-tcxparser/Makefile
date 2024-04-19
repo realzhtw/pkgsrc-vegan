@@ -10,5 +10,7 @@ HOMEPAGE=	https://github.com/vkurup/python-tcxparser
 COMMENT=	Minimal parser for Garmin's TCX file format.
 LICENSE=	mit
 
+DEPENDS+=	${PYPKGPREFIX}-lxml>=5.1.0:../../textproc/py-lxml
+
 .include "../../lang/python/egg.mk"
 .include "../../mk/bsd.pkg.mk"
