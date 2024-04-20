@@ -11,7 +11,7 @@ DEPENDS+=	${PYPKGPREFIX}-autobahn>=0.16.0:../../www/py-autobahn
 DEPENDS+=	${PYPKGPREFIX}-dateutil>=1.5:../../time/py-dateutil
 DEPENDS+=	${PYPKGPREFIX}-jinja2>=2.1:../../textproc/py-jinja2
 DEPENDS+=	${PYPKGPREFIX}-setuptools>=8.0:../../devel/py-setuptools
-#DEPENDS+=	${PYPKGPREFIX}-sqlalchemy>=1.3.0<1.5:../../databases/py-sqlalchemy
+#DEPENDS+=	${PYPKGPREFIX}-sqlalchemy>=1.3.0:../../databases/py-sqlalchemy
 DEPENDS+=	${PYPKGPREFIX}-twisted>=18.7.0:../../net/py-twisted
 DEPENDS+=	${PYPKGPREFIX}-txaio>=2.2.2:../../devel/py-txaio
 DEPENDS+=	${PYPKGPREFIX}-zope.interface>=4.1.1:../../devel/py-zope.interface
