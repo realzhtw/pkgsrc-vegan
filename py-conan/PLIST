@@ -56,6 +56,9 @@ ${PYSITELIB}/conan/tools/build/cpu.pyo
 ${PYSITELIB}/conan/tools/build/cross_building.py
 ${PYSITELIB}/conan/tools/build/cross_building.pyc
 ${PYSITELIB}/conan/tools/build/cross_building.pyo
+${PYSITELIB}/conan/tools/build/flags.py
+${PYSITELIB}/conan/tools/build/flags.pyc
+${PYSITELIB}/conan/tools/build/flags.pyo
 ${PYSITELIB}/conan/tools/build/stdcpp_library.py
 ${PYSITELIB}/conan/tools/build/stdcpp_library.pyc
 ${PYSITELIB}/conan/tools/build/stdcpp_library.pyo
