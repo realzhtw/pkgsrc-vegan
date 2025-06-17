@@ -1,0 +1,16 @@
+OpenShot Video Library (libopenshot) is a free, open-source C++
+library dedicated to delivering high quality video editing, animation,
+and playback solutions to the world.
+
+* Cross-Platform (Linux, Mac, and Windows)
+* Multi-Layer Compositing
+* Video and Audio Effects (Chroma Key, Color Adjustment, Grayscale,
+  etc...)
+* Animation Curves (Bezier, Linear, Constant)
+* Time Mapping (Curve-based Slow Down, Speed Up, Reverse)
+* Audio Mixing & Resampling (Curve-based)
+* Audio Plug-ins (VST & AU)
+* Audio Drivers (ASIO, WASAPI, DirectSound, CoreAudio, iPhone Audio,
+  ALSA, JACK, and Android)
+* Telecine and Inverse Telecine (Film to TV, TV to Film)
+* Frame Rate Conversions
