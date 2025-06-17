@@ -16,7 +16,7 @@ BUILDLINK_TREE+=	libopenshot-audio
 LIBOPENSHOT_AUDIO_BUILDLINK3_MK:=
 
 BUILDLINK_API_DEPENDS.libopenshot-audio+=	libopenshot-audio>=0.2.0
-BUILDLINK_PKGSRCDIR.libopenshot-audio?=	../../wip/libopenshot-audio
+BUILDLINK_PKGSRCDIR.libopenshot-audio?=	../../vegan/libopenshot-audio
 
 # XXX
 # XXX Uncomment and keep only the buildlink3 lines below which are directly
