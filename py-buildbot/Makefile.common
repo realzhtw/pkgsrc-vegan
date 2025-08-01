@@ -1,5 +1,5 @@
-BBVERSION=	3.11.1
-MAINTAINER=	root@zta.lk
+BBVERSION=	4.3.0
+MAINTAINER=	abu.maryam@msafa.org
 HOMEPAGE=	https://buildbot.net/
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
 LICENSE=	gnu-gpl-v2
