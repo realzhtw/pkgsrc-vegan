@@ -1,0 +1,5 @@
+$NetBSD$
+
+BLAKE2s (libcap-ng-0.8.5.tar.gz) = e1699e65a595c6beb24ed9a839dc8876f910c7f8342390436eae69c768bcc059
+SHA512 (libcap-ng-0.8.5.tar.gz) = 3bd868c7f263b77edd2feda831470b407f1086b434618e54336fb78bbf8bf3bad53f4c006a2118fb594b16554f8f7ec2acb76e08be5586d0261684e9ba139231
+Size (libcap-ng-0.8.5.tar.gz) = 59265 bytes
